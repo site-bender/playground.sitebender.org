@@ -1,6 +1,6 @@
 {
 	"name": "playground.sitebender.org",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Playground for @sitebender libraries.",
 	"license": "MIT",
 	"author": "Charles F. Munat <coder@craft-code.dev>",
@@ -38,7 +38,7 @@
 		"@sitebender/fp": "^0.0.13",
 		"@sitebender/operations": "^0.0.26",
 		"@sitebender/pubsub": "^0.0.5",
-		"@sitebender/renderer": "^0.0.2",
+		"@sitebender/renderer": "^0.0.6",
 		"@types/jsdom": "^21.1.6",
 		"@types/node": "^20.12.4",
 		"@vitest/coverage-v8": "^1.5.0",

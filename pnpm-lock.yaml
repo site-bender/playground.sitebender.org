@@ -33,8 +33,8 @@ devDependencies:
     specifier: ^0.0.5
     version: 0.0.5
   '@sitebender/renderer':
-    specifier: ^0.0.2
-    version: 0.0.2
+    specifier: ^0.0.6
+    version: 0.0.6
   '@types/jsdom':
     specifier: ^21.1.6
     version: 21.1.6
@@ -1162,8 +1162,8 @@ packages:
     resolution: {integrity: sha512-OJ+TuiN/P3ykcWSfwKzLvQ9PzHeiPw4gahTGt30VAlRARmlDIxXZniXtJ1pnWfdj0SUV+a+8+zN4EyFYGqC4tg==}
     dev: true
 
-  /@sitebender/renderer@0.0.2:
-    resolution: {integrity: sha512-ws5WC+BSxj+F8E3WgvSOfppwvnXbpnauKGX/jlzRmB9NDP8tA835dj3Kl1lu1FhT/j9ql2eFZy8BT6oMnK11Wg==}
+  /@sitebender/renderer@0.0.6:
+    resolution: {integrity: sha512-SYtb0Pkz7NG9I6qedSmdRiNyqx9fBKfF6RWkMQretkRhDgTqzj3xPQVH9yXBMgYYbMG4ImSdBrL1IvXzS6mVJQ==}
     dev: true
 
   /@types/babel__core@7.20.5:
